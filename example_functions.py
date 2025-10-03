@@ -1,5 +1,3 @@
-# All functions taken from "Python Numerical Methods", Kong, Siauw and Bayen
-# https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html
 import pytest
 
 
