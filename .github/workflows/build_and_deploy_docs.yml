@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs-material
 
-      - name: Deploy
+      - name: Deploy docs
         run: |
           git pull
           mkdocs gh-deploy
