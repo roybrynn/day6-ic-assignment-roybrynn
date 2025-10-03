@@ -1,0 +1,15 @@
+site_name: Python Example Functions
+
+nav:
+- Home: index.md
+- Tutorials: grouped_example.md
+- How-to-Guide: parameter_explanations.md
+- Explanation: why_do_we_need_functions.md
+- Reference: 
+  - my_adder: adder.md
+  - have_digits: digits.md
+  - my_thermo_stat: thermostat.md
+
+plugins:
+- search
+- mkdocstrings
